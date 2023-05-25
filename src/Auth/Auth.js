@@ -5,7 +5,6 @@ import swal from "sweetalert";
 import bg from "../assets/bg.png";
 import validator from "validator";
 import "./auth.css";
-import GoogleLogin from "react-google-login";
 import { Link, useNavigate } from "react-router-dom";
 import { BiArrowBack } from "react-icons/bi";
 import MotionWrap from "../wrapper/MotionWrap";
